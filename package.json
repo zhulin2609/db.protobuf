@@ -1,0 +1,18 @@
+{
+  "name": "db.protobuf",
+  "version": "0.0.1",
+  "description": "protobuf版db.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "protobuf"
+  ],
+  "author": "linkzhu",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "protobufjs": "^5.0.1"
+  }
+}
